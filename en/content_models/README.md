@@ -16,6 +16,8 @@ general
 
 special objects
 ----
-These can not be created via the web frontend, instead a special tool is used which uploads such objects via API calls:
+These can not be created via the web frontend, instead a special tool is used which uploads such objects via API(*) calls:
 * Book
 * Page
+
+(*) link to the API (Phaidra perl o rest phaidra-api?)
