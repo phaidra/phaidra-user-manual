@@ -6,10 +6,13 @@ This will contain an overview for the content models available in Phaidra.
 general
 -----
 * PDFDocument
+* Paper
+* LaTeXDocument
 * Audio
 * Video
 * Picture
 * Asset
+* Resource
 
 * Collection
 * Container
